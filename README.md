@@ -1,4 +1,4 @@
-# Formation à l'intelligence artificielle en biologie médicale
+# Formation à l'Intelligence Artificielle en Biologie Médicale
 
 <p align="center">
   <img src="Images/logo_sorbonne_aphp.jpg" width=ZZ" height="80">
@@ -12,7 +12,7 @@
 
 
 ## Présentation :
-L'évolution rapide des technologies numériques, couplée à une augmentation exponentielle du volume de données hétérogènes (Big Data), notamment dans le domaine de la santé, soulève un défi majeur. Il est devenu impératif de préparer les futurs professionnels de santé à maîtriser ces outils et à comprendre leurs enjeux. En effet, les technologies numériques, incluant l'intelligence artificielle (IA), s'apprêtent à révolutionner divers secteurs en médecine.
+L'évolution rapide des technologies numériques, couplée à une augmentation exponentielle du volume de données hétérogènes (Big Data), notamment dans le domaine de la santé, soulève un défi majeur. Il est devenu impératif de préparer les futurs professionnels de santé à maîtriser ces outils et à comprendre leurs enjeux. En effet, les technologies numériques, incluant l'intelligence artificielle (IA), s'apprêtent à révolutionner divers secteurs en médecine et notamment en biologie médicale.
 
 ## Intervenants :
 **Dr Alexandre Godmer** (AHU, épartement de Bactériologie, site hôpital Saint-Antoine, Sorbonne-Université, INSERM, U1135, Centre d’Immunologie et des Maladies Infectieuses, Cimi-Paris, Paris).
