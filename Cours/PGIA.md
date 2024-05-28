@@ -101,10 +101,10 @@ Après avoir posé une problématique et défini un objectif les différentes é
 
 ## Figure 7. Représentation d’une matrice de confusion comprenant deux classes
 
-Cependant dans la majorité des cas la classification n’est pas binaire il est donc nécessaire d’avoir recours à une matrice de confusion pour la classification multi-classes (Figure 9).
+Cependant dans la majorité des cas la classification n’est pas binaire il est donc nécessaire d’avoir recours à une matrice de confusion pour la classification multi-classes (Figure 8).
 
 <p align="center">
-  <img src="../Images/fig8.png">
+  <img src="../Images/fig9.png">
 </p>
 
 ## Figure 8. Représentation d’une matrice de confusion dans le cadre d’une classification multi-classes
