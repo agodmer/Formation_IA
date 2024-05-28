@@ -46,7 +46,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 ### Cours et Travaux Pratiques
 
-#### Petit lexique de l'intelligence artificielle : [lien](Cours/LexiqueIA.md)
+#### Petit lexique de l'intelligence artificielle : [lien](Cours/lexiqueIA.md)
 
 #### Histoire de l'intelligence artificielle : [lien](Cours/HistoireIA.md)
 
