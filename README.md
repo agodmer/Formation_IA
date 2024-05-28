@@ -21,7 +21,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 ## Infromations pratiques :
 
-### Programme
+### Programme :
 - 2 demies journées de formation 
 - **le 3 et 10 juin 2024** (après-midi)
 - lieu de la formation : **Faculté de Santé Sorbonne Université Site Saint-Antoine; 27 Rue Chaligny (75012 Paris)**
@@ -30,33 +30,43 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
   <img src="Images/lieuSU.png">
 </p>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Pré-requis
-**Création dun compte Google Colaratory**
+### Pré-requis (2 points importants) :
 
- Colab (ou "Colaboratory") vous permet d'écrire et d'exécuter du code Python dans votre navigateur avec :
+### ⚠️ Création dun compte Google Colaratory 
 
+  <span style="color: red;"> **Il est impératif d'avoir un compte Google Colaboratory pour suivre la formation** </span>
+  
+Colab (ou "Colaboratory") vous permet d'écrire et d'exécuter du code Python dans votre navigateur avec :
 - aucune configuration requise
 - accès sans frais aux GPU
 - partage facile
 - vidéo explicative : [lien](https://www.youtube.com/watch?v=inN8seMm7UI)
 
-**Avant de commencer la formation, merci de remplir impérativement ce [questionnaire](https://forms.gle/T4JbXuKiTvR2Dz2W7)**
-- Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
+### <span style="color: red;">⚠️ Avant de commencer la formation, merci de remplir impérativement ce [questionnaire](https://forms.gle/T4JbXuKiTvR2Dz2W7) </span>
+Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 
-### Cours et Travaux Pratiques
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Petit lexique de l'intelligence artificielle : [lien](Cours/lexiqueIA.md)
+### Cours et Travaux Pratiques :
 
-#### Histoire de l'intelligence artificielle : [lien](Cours/HistoireIA.md)
+#### 1. Petit lexique de l'intelligence artificielle : [lien](Cours/lexiqueIA.md)
 
-#### Principes généraux de l'intelligence artificielle : [lien](Cours/PGIA.md)
+#### 2. Histoire de l'intelligence artificielle : [lien](Cours/HistoireIA.md)
 
-#### Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) : [lien](Cours/cours_PCA_ia.pdf)
+#### 3. Principes généraux de l'intelligence artificielle : [lien](Cours/PGIA.md)
 
-#### Travaux pratiques
+#### 4. Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) : [lien](Cours/cours_PCA_ia.pdf)
 
-### Merci de remplir impérativement ces qestionnaires à la fin de la formation :
+#### 5. Travaux pratiques
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### ⚠️ Merci de remplir impérativement ces qestionnaires à la fin de la formation : 
+
 - Evaluation post-formation : [lien](https://forms.gle/BMfgQwdiQMFd1XJZ8)
 - Evaluation qualiative : [lien](https://forms.gle/7t5U6ZEfNQ8B6Ax7A)
 - Entretien focus-group : [lien](https://forms.gle/EfqNN5AKpHWHXUgZ7)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
