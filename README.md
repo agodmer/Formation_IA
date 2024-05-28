@@ -11,7 +11,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 - lieu de la formation : **Faculté de Santé Sorbonne Université Site Saint-Antoine; 27 Rue Chaligny (75012 Paris)**
 - **Salle 1103 (11ème étage)**
 <p align="center">
-  <img src="Images/LieuSU.png">
+  <img src="Images/lieuSU.png">
 </p>
 
 
