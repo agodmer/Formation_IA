@@ -34,7 +34,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 #### Histoire de l'intelligence artificielle : [lien](Cours/HistoireIA.md)
 
-#### Principes généraux de l'intelligence artificielle : [lien](Cours/HistoireIA.md)
+#### Principes généraux de l'intelligence artificielle : [lien](Cours/PGIA.md)
 
 #### Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) [lien](Cours/HistoireIA.md)
 
