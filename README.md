@@ -1,4 +1,4 @@
-# Formation à l'intelligence artificielle en biologie médicale
+# Formation à l'Intelligence Artificielle en Biologie Médicale
 
 <p align="center">
   <img src="Images/logo_sorbonne_aphp.jpg" width=ZZ" height="80">
@@ -11,10 +11,10 @@
 </p>
 
 
-## Présentation
-L'évolution rapide des technologies numériques, couplée à une augmentation exponentielle du volume de données hétérogènes (Big Data), notamment dans le domaine de la santé, soulève un défi majeur. Il est devenu impératif de préparer les futurs professionnels de santé à maîtriser ces outils et à comprendre leurs enjeux. En effet, les technologies numériques, incluant l'intelligence artificielle (IA), s'apprêtent à révolutionner divers secteurs en médecine.
+## Présentation :
+L'évolution rapide des technologies numériques, couplée à une augmentation exponentielle du volume de données hétérogènes (Big Data), notamment dans le domaine de la santé, soulève un défi majeur. Il est devenu impératif de préparer les futurs professionnels de santé à maîtriser ces outils et à comprendre leurs enjeux. En effet, les technologies numériques, incluant l'intelligence artificielle (IA), s'apprêtent à révolutionner divers secteurs en médecine et notamment en biologie médicale.
 
-## Intervenant :
+## Intervenants :
 **Dr Alexandre Godmer** (AHU, épartement de Bactériologie, site hôpital Saint-Antoine, Sorbonne-Université, INSERM, U1135, Centre d’Immunologie et des Maladies Infectieuses, Cimi-Paris, Paris).
 
 **Dr Guillaume Bachelot** () 
@@ -23,7 +23,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 ### Programme
 - 2 demies journées de formation 
-- **le 3 et 11 juin 2024** (après-midi)
+- **le 3 et 10 juin 2024** (après-midi)
 - lieu de la formation : **Faculté de Santé Sorbonne Université Site Saint-Antoine; 27 Rue Chaligny (75012 Paris)**
 - **Salle 1103 (11ème étage)**
 <p align="center">
@@ -46,7 +46,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 ### Cours et Travaux Pratiques
 
-#### Petit lexique de l'intelligence artificielle : [lien](Cours/LexiqueIA.md)
+#### Petit lexique de l'intelligence artificielle : [lien](Cours/lexiqueIA.md)
 
 #### Histoire de l'intelligence artificielle : [lien](Cours/HistoireIA.md)
 
