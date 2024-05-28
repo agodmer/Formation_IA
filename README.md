@@ -7,12 +7,13 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 ### Programme
 - 2 demies journées de formation 
-- le 3 et 11 juin 2024
-- lieu de la formation : Faculté de Santé Sorbonne Université Site Saint-Antoine
-
+- **le 3 et 11 juin 2024** (après-midi)
+- lieu de la formation : **Faculté de Santé Sorbonne Université Site Saint-Antoine; 27 Rue Chaligny (75012 Paris)**
+- **Salle 1103 (11ème étage)**
 <p align="center">
-  <img src="Images/lieuSU">
+  <img src="Images/LieuSU.png">
 </p>
+
 
 ### Pré-requis
 **Création dun compte Google Colaratory**
