@@ -52,7 +52,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 #### Principes généraux de l'intelligence artificielle : [lien](Cours/PGIA.md)
 
-#### Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) [lien](Cours/HistoireIA.md)
+#### Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) [lien](Cours/cours_PCA_ia)
 
 #### Travaux pratiques
 
