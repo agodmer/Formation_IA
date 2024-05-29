@@ -57,7 +57,7 @@ Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 
 #### 3 Travaux pratiques : [lien]()
 
-### Autre supports de cours (à lire)
+### Autre supports de cours (à lire) :
 
 #### A. Petit lexique de l'intelligence artificielle : [lien](Cours/lexiqueIA.md)
 
