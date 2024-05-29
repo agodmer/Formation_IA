@@ -51,15 +51,19 @@ Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 
 ### Cours et Travaux Pratiques :
 
-#### 1. Petit lexique de l'intelligence artificielle : [lien](Cours/lexiqueIA.md)
+#### 1. Introduction : [lien](Cours/Introduction_IA.pdf)
 
-#### 2. Histoire de l'intelligence artificielle : [lien](Cours/HistoireIA.md)
+#### 2. Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) : [lien](Cours/cours_PCA_ia.pdf)
 
-#### 3. Principes généraux de l'intelligence artificielle : [lien](Cours/PGIA.md)
+#### 3 Travaux pratiques : [lien]()
 
-#### 4. Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) : [lien](Cours/cours_PCA_ia.pdf)
+### Autre supports de cours (à lire)
 
-#### 5. Travaux pratiques
+#### A. Petit lexique de l'intelligence artificielle : [lien](Cours/lexiqueIA.md)
+
+#### B. Histoire de l'intelligence artificielle : [lien](Cours/HistoireIA.md)
+
+#### C. Principes généraux de l'intelligence artificielle : [lien](Cours/PGIA.md)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
