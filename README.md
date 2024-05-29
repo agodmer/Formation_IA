@@ -17,7 +17,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 ## Intervenants :
 **Dr Alexandre Godmer** (AHU, Département de Bactériologie, site hôpital Saint-Antoine, Sorbonne-Université, INSERM, U1135, Centre d’Immunologie et des Maladies Infectieuses, Cimi-Paris, Paris).
 
-**Dr Guillaume Bachelot** () 
+**Dr Guillaume Bachelot** (AHU, Service de Biologie de la reproduction, Tenon - Centre De Recherche Saint-Antoine) 
 
 ## Infromations pratiques :
 
