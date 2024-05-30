@@ -59,7 +59,7 @@ Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 - 3.A : microbiologie : [lien](Cours/Exemples_application_IA.pdf)
 - 3.B : PMA : [lien]()
 
-#### 3 Travaux pratiques : [lien]()
+#### 3 Travaux pratiques : [lien](Cours/TD_exemple_ML_Python.ipynb)
 
 ### Autre supports de cours (à lire) :
 
