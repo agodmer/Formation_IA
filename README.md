@@ -55,6 +55,10 @@ Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 
 #### 2. Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) : [lien](Cours/cours_PCA_ia.pdf)
 
+#### 3. Exemples d'applications :
+- 3.A : microbiologie : [lien](Cours/Exemples_application_IA)
+- 3.B : PMA : [lien]()
+
 #### 3 Travaux pratiques : [lien]()
 
 ### Autre supports de cours (à lire) :
