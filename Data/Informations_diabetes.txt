@@ -1,0 +1,3 @@
+The biomedical data we are going to use is obtained from Kaggle website. The dataset contains information about diabetes of cohort of sample subjects. This dataset arises from a research study of the National Institute of Diabetes and Digestive and Kidney Diseases. 
+
+https://www.kaggle.com/datasets/saurabh00007/diabetescsv
