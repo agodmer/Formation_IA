@@ -30,6 +30,8 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
   <img src="Images/lieuSU.png">
 </p>
 
+### Code [Wooclap](https://www.wooclap.com/fr/) : DRMLBF
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Pré-requis (2 points importants) :
@@ -53,13 +55,11 @@ Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 
 #### 1. Introduction : [lien](Cours/Introduction_IA.pdf)
 
-#### 2. Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) : [lien](Cours/cours_PCA_ia.pdf)
+#### 2. Exemples d'applications :
+- 2.A : microbiologie : [lien](Cours/Exemples_application_IA.pdf)
+- 2.B : PMA : [lien]()
 
-#### 3. Exemples d'applications :
-- 3.A : microbiologie : [lien](Cours/Exemples_application_IA.pdf)
-- 3.B : PMA : [lien]()
-
-#### 3 Travaux pratiques : [lien](Cours/TD_exemple_ML_Python.ipynb)
+#### 3. Travaux pratiques : [lien](Cours/TD_exemple_ML_Python.ipynb)
 
 ### Autre supports de cours (à lire) :
 
@@ -68,6 +68,8 @@ Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 #### B. Histoire de l'intelligence artificielle : [lien](Cours/HistoireIA.md)
 
 #### C. Principes généraux de l'intelligence artificielle : [lien](Cours/PGIA.md)
+
+#### D. Un premier pas vers l'intelligence artificielle : l'analyse en composante principale (ACP) : [lien](Cours/cours_PCA_ia.pdf)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
