@@ -61,6 +61,8 @@ Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 
 #### 3. Travaux pratiques : [lien](Cours/TD_exemple_ML_Python.ipynb)
 - 3.A : Initiation à Python : [lien](Cours/Cours_Python.pdf)
+- 3.B : TP1 : [lien](Cours/premier_essai_diabete.ipynb)
+- 3.C : TP2 : [lien](Cours/VIDE_TD_exemple_ML_Python.ipynb)
 
 ### Autre supports de cours (à lire) :
 
