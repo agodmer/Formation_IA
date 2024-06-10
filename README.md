@@ -60,7 +60,7 @@ Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 - 2.B : PMA : [lien]()
 
 #### 3. Travaux pratiques : [lien](Cours/TD_exemple_ML_Python.ipynb)
-- 3.A : Initiation à Python : [lien](Cours/Cours_Python)
+- 3.A : Initiation à Python : [lien](Cours/Cours_Python.pdf)
 
 ### Autre supports de cours (à lire) :
 
