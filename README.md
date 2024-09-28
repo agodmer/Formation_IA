@@ -76,10 +76,6 @@ Evaluation pré-formation : https://forms.gle/T4JbXuKiTvR2Dz2W7
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### ⚠️ Merci de remplir impérativement ces qestionnaires à la fin de la formation : 
-
-- Evaluation post-formation : [lien](https://forms.gle/BMfgQwdiQMFd1XJZ8)
-- Evaluation qualiative : [lien](https://forms.gle/7t5U6ZEfNQ8B6Ax7A)
-- Entretien focus-group : [lien](https://forms.gle/EfqNN5AKpHWHXUgZ7)
+### ⚠️ Merci de remplir les qestionnaires à la fin de la formation
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
